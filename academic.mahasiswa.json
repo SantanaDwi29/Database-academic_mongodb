@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "666691f476eff514b6cdcdf6"
+  },
+  "nama": "Santa",
+  "umur": 18,
+  "IPK": 3.5,
+  "alamat": {
+    "jalan": "Sanggulan Indah",
+    "kecamatan": "Kediri",
+    "kabupaten": "Tabanan",
+    "provinsi": "Bali"
+  },
+  "matakuliah": [
+    "Analisa dan Perancangan Sistem",
+    "Design Web",
+    "Algroitma"
+  ],
+  "statusAktif": true
+},
+{
+  "_id": {
+    "$oid": "6666931e76eff514b6cdcdf7"
+  },
+  "nama": "Gyann",
+  "umur": 18,
+  "IPK": 3.6,
+  "alamat": {
+    "jalan": "Taman Griya",
+    "kecamatan": "Kuta Selatan",
+    "kabupaten": "Badung",
+    "provinsi": "Bali"
+  },
+  "matakuliah": [
+    "Basis Data Terapan",
+    "Bahasa Inggris",
+    "Algroitma"
+  ],
+  "statusAktif": true
+},
+{
+  "_id": {
+    "$oid": "6666931e76eff514b6cdcdf8"
+  },
+  "nama": "Endra",
+  "umur": 19,
+  "IPK": 3.8,
+  "alamat": {
+    "jalan": "Taman Griya 2",
+    "kecamatan": "Kuta Selatan",
+    "kabupaten": "Badung",
+    "provinsi": "Bali"
+  },
+  "matakuliah": [
+    "Interaksi Manusia Komputer",
+    "Bahasa Inggris",
+    "Design Grafis"
+  ],
+  "statusAktif": true
+},
+{
+  "_id": {
+    "$oid": "6666931e76eff514b6cdcdf9"
+  },
+  "nama": "Perdia",
+  "umur": 18,
+  "IPK": 4,
+  "alamat": {
+    "jalan": "Pupuan",
+    "kecamatan": "Pupuan",
+    "kabupaten": "Tabanan",
+    "provinsi": "Bali"
+  },
+  "matakuliah": [
+    "Analisa dan Perancangan Sistem",
+    "Bahasa Inggris",
+    "Algroitma"
+  ],
+  "statusAktif": true
+},
+{
+  "_id": {
+    "$oid": "6666980f76eff514b6cdcdfa"
+  },
+  "nama": "Agung Aris",
+  "umur": 18,
+  "IPK": 3.8,
+  "matakuliah": [
+    "Basis Data",
+    "Desig Web",
+    "Statiska"
+  ],
+  "statusAktif": true,
+  "alamat": {
+    "jalan": "Bukit Jimbaran",
+    "kecamatan": "Kuta Selatan",
+    "kabupaten": "Badung",
+    "provinsi": "Bali"
+  }
+}]
